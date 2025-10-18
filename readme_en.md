@@ -4,4 +4,4 @@
 Send a `mid` to the bot and it will automatically convert the `mid` into the user's profile/contact card.
 
 
-![LINE Contact Card Bot](./docs/screenshot/img.png)
+![Line名片机器人](./docs/screenshot/demo.gif)

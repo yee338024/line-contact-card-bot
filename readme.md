@@ -17,4 +17,4 @@
 
 发送`mid`给机器人，机器人会自动将`mid`转为用户的`个人资料名片`
 
-![Line名片机器人](./docs/screenshot/img.png)
+![Line名片机器人](./docs/screenshot/demo.gif)

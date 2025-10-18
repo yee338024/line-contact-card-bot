@@ -4,4 +4,4 @@
 ボットに`mid`を送信すると、その`mid`を自動的にユーザーのプロフィール／連絡先カードに変換します。
 
 
-![LINE 連絡先カードボット](./screenshot/img.png)
+![Line名片机器人](./docs/screenshot/demo.gif)
