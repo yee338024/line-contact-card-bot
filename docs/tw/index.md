@@ -3,15 +3,14 @@
 layout: home
 
 hero:
-  name: "Line名片机器人"
-  text: "将Line用户ID（mid）转换为可发起聊天的个人资料卡片"
+  name: "Line 名片機器人"
+  text: "會當將 Line 使用者 ID（mid）轉做會發起聊天的個人資料名片"
   image:
     src: /demo.gif
-    alt: "Line名片机器人"
+    alt: "Line 名片機器人"
   actions:
     - theme: brand
-      text: 预约试用
+      text: 預約試用
       link: https://t.me/linebot_pro
 
 ---
-

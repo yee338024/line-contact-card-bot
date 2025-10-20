@@ -3,15 +3,14 @@
 layout: home
 
 hero:
-  name: "Line名片机器人"
-  text: "将Line用户ID（mid）转换为可发起聊天的个人资料卡片"
+  name: "LINE Profile Card Bot"
+  text: "Convert a LINE user ID (mid) into a profile card that can initiate a chat"
   image:
     src: /demo.gif
-    alt: "Line名片机器人"
+    alt: "LINE Profile Card Bot"
   actions:
     - theme: brand
-      text: 预约试用
+      text: "Request a trial"
       link: https://t.me/linebot_pro
 
 ---
-

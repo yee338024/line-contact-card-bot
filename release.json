@@ -1,0 +1,11 @@
+{
+  "fileMap": [
+    {
+      "src": "./.vitepress/dist/",
+      "dest": "/www/wwwroot/linebots.app/"
+    }
+  ],
+  "ftpConfig": {
+    "host": ["linebot2"]
+  }
+}
