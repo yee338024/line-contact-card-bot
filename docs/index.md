@@ -12,6 +12,9 @@ hero:
     - theme: brand
       text: 预约试用
       link: https://t.me/linebot_pro
+    - theme: alt
+      text: mid购买
+      link: https://t.me/linebot_pro
 
 ---
 

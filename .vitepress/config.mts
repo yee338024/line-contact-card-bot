@@ -10,47 +10,47 @@ export default defineConfig({
         ['meta', {name: 'baidu-site-verification', content: 'codeva-w6NaJGChtA'}],
         ['meta', {
             name: 'keywords',
-            content: 'LINE 名片, LINE 名片机器人, LINE 个人资料卡, LINE MID 转换, LINE 用户 ID 转换, 将 mid 转为名片, 发起聊天 名片, LINE 联系人卡片, LINE 名片 生成器, LINE Chat 发起卡片',
+            content: 'LINE 名片, LINE 名片机器人, LINE 个人资料卡, LINE MID 转换, LINE 用户 ID 转换, 将 mid 转为名片, 发起聊天 名片, LINE 联系人卡片, LINE 名片 生成器, LINE Chat 发起卡片, line mid',
             'data-lang': 'zh'
         }],
         ['meta', {
             name: 'keywords',
-            content: 'Line 名片, Line 名片機器人, Line 個人資料卡, Line 使用者 ID 轉換, mid 轉名片, 啟動聊天 名片, Line 聯絡人 卡片, Line 名片產生器',
+            content: 'Line 名片, Line 名片機器人, Line 個人資料卡, Line 使用者 ID 轉換, mid 轉名片, 啟動聊天 名片, Line 聯絡人 卡片, Line 名片產生器, line mid',
             'data-lang': 'tw'
         }],
         ['meta', {
             name: 'keywords',
-            content: 'LINE profile card, LINE profile card bot, convert LINE user id, convert LINE mid to profile, LINE mid converter, LINE contact card, start chat LINE profile, LINE bot profile card, profile card generator for LINE, LINE user ID to chat link',
+            content: 'LINE profile card, LINE profile card bot, convert LINE user id, convert LINE mid to profile, LINE mid converter, LINE contact card, start chat LINE profile, LINE bot profile card, profile card generator for LINE, LINE user ID to chat link, line mid',
             'data-lang': 'en'
         }],
         ['meta', {
             name: 'keywords',
-            content: 'LINE 名刺, LINE 名刺ボット, LINE プロフィールカード, LINE ユーザーID 変換, mid を名刺に変換, チャット開始 プロフィール, LINE 連絡先カード, 名刺ジェネレーター LINE',
+            content: 'LINE 名刺, LINE 名刺ボット, LINE プロフィールカード, LINE ユーザーID 変換, mid を名刺に変換, チャット開始 プロフィール, LINE 連絡先カード, 名刺ジェネレーター LINE, line mid',
             'data-lang': 'jp'
         }],
         ['meta', {
             name: 'keywords',
-            content: 'LINE 명함, LINE 명함 봇, LINE 프로필 카드, LINE 사용자 ID 변환, mid 를 명함으로 변환, 채팅 시작 프로필, LINE 연락처 카드, 명함 생성기 LINE',
+            content: 'LINE 명함, LINE 명함 봇, LINE 프로필 카드, LINE 사용자 ID 변환, mid 를 명함으로 변환, 채팅 시작 프로필, LINE 연락처 카드, 명함 생성기 LINE, line mid',
             'data-lang': 'kr'
         }],
         ['meta', {
             name: 'keywords',
-            content: 'Kartu profil LINE, Bot kartu profil LINE, Ubah ID pengguna LINE, Konversi mid LINE ke kartu, Generator kartu LINE, Kartu kontak LINE, Mulai chat kartu profil, LINE mid converter',
+            content: 'Kartu profil LINE, Bot kartu profil LINE, Ubah ID pengguna LINE, Konversi mid LINE ke kartu, Generator kartu LINE, Kartu kontak LINE, Mulai chat kartu profil, LINE mid converter, line mid',
             'data-lang': 'id'
         }],
         ['meta', {
             name: 'keywords',
-            content: 'Kad profil LINE, Bot kad profil LINE, Tukar ID pengguna LINE, Tukar mid LINE kepada kad, Penjana kad LINE, Kad kenalan LINE, Mula sembang kad profil, Penukar mid LINE',
+            content: 'Kad profil LINE, Bot kad profil LINE, Tukar ID pengguna LINE, Tukar mid LINE kepada kad, Penjana kad LINE, Kad kenalan LINE, Mula sembang kad profil, Penukar mid LINE, line mid',
             'data-lang': 'my'
         }],
         ['meta', {
             name: 'keywords',
-            content: 'Thẻ hồ sơ LINE, Bot thẻ hồ sơ LINE, Chuyển ID người dùng LINE, Chuyển mid LINE thành thẻ, Bộ tạo thẻ LINE, Thẻ liên hệ LINE, Bắt đầu trò chuyện bằng thẻ, LINE mid converter',
+            content: 'Thẻ hồ sơ LINE, Bot thẻ hồ sơ LINE, Chuyển ID người dùng LINE, Chuyển mid LINE thành thẻ, Bộ tạo thẻ LINE, Thẻ liên hệ LINE, Bắt đầu trò chuyện bằng thẻ, LINE mid converter, line mid',
             'data-lang': 'vn'
         }],
         ['meta', {
             name: 'keywords',
-            content: 'Визитка LINE, Бот визитки LINE, Профильная карточка LINE, Конвертировать LINE ID, Преобразовать mid в визитку, Карточка контакта LINE, Запустить чат профиль, Генератор визиток LINE',
+            content: 'Визитка LINE, Бот визитки LINE, Профильная карточка LINE, Конвертировать LINE ID, Преобразовать mid в визитку, Карточка контакта LINE, Запустить чат профиль, Генератор визиток LINE, line mid',
             'data-lang': 'ru'
         }],
         ['link', {rel: 'alternate', hreflang: 'x-default', href: 'https://linebots.app/'}],
